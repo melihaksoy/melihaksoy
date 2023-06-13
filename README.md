@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=melihaksoy)
 
+<a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api?username=melihaksoy&show_icons=true&theme=onedark"/></a>
+
+<a href=""><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihaksoy&theme=onedark"/></a>
 
 <!--
 **melihaksoy/melihaksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
